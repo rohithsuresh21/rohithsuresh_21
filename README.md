@@ -11,7 +11,7 @@
 
 ### *Metallurgist by degree. AI Engineer by obsession.*
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B7FF5&center=true&vCenter=true&width=600&lines=I+read+the+attention+paper.;Then+I+coded+it.;Then+I+shipped+it.;8+months+in.+Haven't+stopped+once.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B7FF5&center=true&vCenter=true&width=600&lines=An+AIML+Enthusiast.;Research+Papers+read+in+Stack.;Then+I+coded+it.;8+months+in.+Haven't+stopped+once.)
 
 </div>
 
