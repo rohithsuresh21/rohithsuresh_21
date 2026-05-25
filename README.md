@@ -11,20 +11,33 @@
 
 ### *Metallurgist by degree. AI Engineer by obsession.*
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B7FF5&center=true&vCenter=true&width=600&lines=I+read+the+attention+paper.;Then+I+coded+it.;Then+I+shipped+it.;8+months+in.+Haven't+stopped+once.)
+
 </div>
 
 ---
 
-**University:** IIT Indore '29 — Metallurgy & Material Science  
-**Obsession:** Building AI systems from the ground up  
-**Timeline:** 8 months in. Haven't stopped once.
+<div align="center">
+
+### 🔬 <span>Rohith M S</span>
+
+</div>
+
+| | |
+|---|---|
+| 🎓 **University** | IIT Indore '29 — Metallurgy & Material Science |
+| 🧠 **Obsession** | Building AI systems from the ground up |
+| ⚡ **Timeline** | 8 months in. Haven't stopped once. |
+| 🔨 **Currently Building** | Multimodal Cognitive Assistant — Local RAG + LLM + Vector DB |
 
 **Philosophy:**
-- I read the attention paper. Then I coded it. Then I shipped it.
-- No cloud. No shortcuts. Just understanding.
-- Every model I build, I understand why it works.
 
-**Currently Building:** Multimodal Cognitive Assistant — Local RAG + LLM + Vector DB
+> 💡 *I read the attention paper. Then I coded it. Then I shipped it.*
+>
+> ⚙️ *No cloud. No shortcuts. Just understanding.*
+>
+> 🎯 *Every model I build, I understand why it works.*
+
 ---
 
 <div align="center">
@@ -36,7 +49,7 @@
 ```
 RAG Pipelines          ████████████████████  Full Stack
 LLMs from Scratch      ███████████████░░░░░  GPT-2 Architecture
-Vector Databases       ████████████████████  Qdrant + Embeddings  
+Vector Databases       ████████████████████  Qdrant + Embeddings
 FastAPI Backend        ████████████████████  Production Ready
 Deep Learning          ██████████████░░░░░░  PyTorch + Fine-tuning
 GenAI Applications     ████████████████████  Shipped & Working
@@ -77,7 +90,16 @@ GenAI Applications     ███████████████████
 
 **What I understand deeply (not just use):**
 
-> `Transformers` · `Self-Attention` · `Cross-Attention` · `Tokenization` · `RAG` · `Vector Embeddings` · `Neural Networks` · `Backpropagation` · `Fine-Tuning` · `Semantic Search`
+![](https://img.shields.io/badge/Transformers-7B7FF5?style=flat-square)
+![](https://img.shields.io/badge/Self--Attention-7B7FF5?style=flat-square)
+![](https://img.shields.io/badge/Cross--Attention-7B7FF5?style=flat-square)
+![](https://img.shields.io/badge/Tokenization-7B7FF5?style=flat-square)
+![](https://img.shields.io/badge/RAG-2ECC87?style=flat-square)
+![](https://img.shields.io/badge/Vector--Embeddings-2ECC87?style=flat-square)
+![](https://img.shields.io/badge/Neural--Networks-2ECC87?style=flat-square)
+![](https://img.shields.io/badge/Backpropagation-2ECC87?style=flat-square)
+![](https://img.shields.io/badge/Fine--Tuning-F5A623?style=flat-square)
+![](https://img.shields.io/badge/Semantic--Search-F5A623?style=flat-square)
 
 ---
 
