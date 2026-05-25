@@ -15,7 +15,6 @@
 
 ---
 
-``
 **University:** IIT Indore '29 — Metallurgy & Material Science  
 **Obsession:** Building AI systems from the ground up  
 **Timeline:** 8 months in. Haven't stopped once.
