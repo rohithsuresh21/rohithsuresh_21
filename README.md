@@ -15,25 +15,17 @@
 
 ---
 
-```python
-class Rohith:
-    def __init__(self):
-        self.name        = "Rohith M S"
-        self.university  = "IIT Indore '29 — Metallurgy & Material Science"
-        self.obsession   = "Building AI systems from the ground up"
-        self.timeline    = "8 months in. Haven't stopped once."
+``### 🧠 Rohith M S
+**University:** IIT Indore '29 — Metallurgy & Material Science  
+**Obsession:** Building AI systems from the ground up  
+**Timeline:** 8 months in. Haven't stopped once.
 
-    def philosophy(self):
-        return [
-            "I read the attention paper. Then I coded it. Then I shipped it.",
-            "No cloud. No shortcuts. Just understanding.",
-            "Every model I build, I understand why it works.",
-        ]
+**Philosophy:**
+- I read the attention paper. Then I coded it. Then I shipped it.
+- No cloud. No shortcuts. Just understanding.
+- Every model I build, I understand why it works.
 
-    def currently_building(self):
-        return "Multimodal Cognitive Assistant — Local RAG + LLM + Vector DB"
-```
-
+**Currently Building:** Multimodal Cognitive Assistant — Local RAG + LLM + Vector DB
 ---
 
 <div align="center">
